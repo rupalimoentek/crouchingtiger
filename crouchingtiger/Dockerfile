@@ -6,5 +6,5 @@ WORKDIR /home/CT
 RUN pwd
 RUN npm install
 RUN npm install -g bower
-RUN bower --allow-root install
+RUN bower --allow-root install /home/CT/crouchingtiger/bower.json
 RUN grunt
