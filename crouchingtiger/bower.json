@@ -28,7 +28,7 @@
     "angular-ui-bootstrap": "",
     "angular-bootstrap-toggle-switch": "",
     "angular-utils-pagination": "0.11.1",
-    "angular": "angularjs#1.4.5",
+    "angular": "",
     "angularjs-modal-service": "*",
     "bootstrap-ui-datetime-picker": "",
     "canvg": "~1.3.0",
@@ -85,6 +85,6 @@
   },
   "resolutions": {
     "angular-bootstrap": "",
-    "angular": "1.4.5"
+    "angular": ""
   }
 }
