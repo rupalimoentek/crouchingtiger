@@ -5,7 +5,6 @@ RUN npm install
 RUN pwd
 RUN npm install -g bower
 RUN pwd
-RUN ls bower.json
 RUN ls /crouchingtiger/bower.json
 RUN bower --allow-root install rupalimoentek/crouchingtiger/blob/main/crouchingtiger/bower.json
 RUN grunt
