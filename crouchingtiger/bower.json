@@ -70,7 +70,7 @@
     "iCheck": "^1.0.2",
     "jquery-validation": "^1.17.0",
     "moment": "2.18.1",
-    "angular-bootstrap-multiselect": "^0.5.1",
+    "angular-bootstrap-multiselect": "",
     "videogular-themes-default": "^1.4.4",
     "videogular-ima-ads": "^1.4.4",
     "videogular-angulartics": "^1.4.4",
