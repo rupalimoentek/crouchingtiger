@@ -51,7 +51,7 @@
     "underscore": "~1.8.3",
     "watch-dom": "^0.0.5",
     "select2": "3.4.8",
-    "seiyria-bootstrap-slider": "^9.8.1",
+    "seiyria-bootstrap-slider": "",
     "angular-xeditable": "^0.8.0",
     "jScrollPane": "2.0.23",
     "jquery.ui": "^1.11.2",
@@ -59,7 +59,7 @@
     "jquery.easing": "^1.3.1",
     "Flot": "flot#^0.8.3",
     "angular-ui-select2": "^0.0.5",
-    "bootbox.js": "^4.4.0",
+    "bootbox.js": "",
     "autosize": "jquery-autosize#^4.0.0",
     "jquery-knob": "^1.2.13",
     "jquery.sparkline": "^2.1.2",
@@ -79,9 +79,9 @@
     "videogular-overlay-play": "^1.4.4",
     "videogular-poster": "^1.4.4",
     "videogular-buffering": "^1.4.4",
-    "angularjs-dropdown-multiselect": "^1.11.8",
+    "angularjs-dropdown-multiselect": "",
     "html2pdf.js": "0.9.1",
-    "textAngular": "1.5.16"
+    "textAngular": ""
   },
   "resolutions": {
     "angular-bootstrap": "",
