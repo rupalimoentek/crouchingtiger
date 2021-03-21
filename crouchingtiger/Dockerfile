@@ -6,4 +6,4 @@ WORKDIR /home/CT
 RUN pwd
 RUN npm install
 RUN npm install -g grunt-cli
-RUN grunt
+RUN grunt /home/CT/crouchingtiger/Gruntfile.js
