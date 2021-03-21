@@ -5,5 +5,5 @@ RUN git clone https://github.com/rupalimoentek/crouchingtiger.git /home/CT
 WORKDIR /home/CT
 RUN pwd
 RUN npm install
-RUN npm install grunt-cli
+RUN npm install -g grunt-cli
 RUN grunt
