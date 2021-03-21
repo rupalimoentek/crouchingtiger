@@ -84,7 +84,7 @@
     "textAngular": "1.5.16"
   },
   "resolutions": {
-    "angular-bootstrap": "1.0.3",
+    "angular-bootstrap": "",
     "angular": "1.4.5"
   }
 }
