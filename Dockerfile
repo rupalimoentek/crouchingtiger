@@ -4,5 +4,5 @@ RUN npm install
 RUN pwd
 RUN npm install -g bower
 RUN pwd
-RUN bower --allow-root install
+RUN bower --allow-root install bower.json
 RUN grunt
