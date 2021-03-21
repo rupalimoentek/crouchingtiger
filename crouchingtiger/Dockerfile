@@ -4,7 +4,6 @@ RUN mkdir /home/CT
 RUN git clone https://github.com/rupalimoentek/crouchingtiger.git /home/CT
 WORKDIR /home/CT
 RUN pwd
-RUN npm install
-RUN npm install -g bower
+RUN npm install /home/CT/crouchingtiger/package.json
 RUN bower --allow-root install /home/CT/crouchingtiger/bower.json
 RUN grunt
