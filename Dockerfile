@@ -1,5 +1,5 @@
 FROM node:8.10-alpine
-RUN apk add git
+RUN apk update && apk upgrade && apk add git
 RUN pwd
 RUN npm install
 RUN pwd
